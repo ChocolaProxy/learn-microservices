@@ -20,6 +20,7 @@
         <module>learn-common</module>
         <module>learn-user-service</module>
         <module>learn-order-service</module>
+
     </modules>
 
     <properties>
